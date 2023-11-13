@@ -18,12 +18,17 @@ body {
 }
 
 .three {
+  position: relative;
+  top: 200px;
+  left: 400px;
   width: 200px;
   height: 200px;
   background-color: green;
 }
 
 .four {
+  position: absolute;
+  top: 100px;
   width: 100px;
   height: 100px;
   background-color: blue;
